@@ -7,7 +7,7 @@
          <collision name="collision">
              <geometry>
                  <mesh>
-                     <uri>model://K-RVC Walking ( Pro - 01 )/K-RVC_stl_Model/K-RVC.stl</uri>
+                     <uri>model://K-RVC_Walking/K-RVC_stl_Model/K-RVC.stl</uri>
                      <scale>1 1 1</scale>
                  </mesh>
              </geometry>
@@ -16,7 +16,7 @@
          <visual name="visual">
              <geometry>
                  <mesh>
-                     <uri>model://K-RVC Walking ( Pro - 01 )/K-RVC_stl_Model/K-RVC.stl</uri> 
+                     <uri>model://K-RVC_Walking/K-RVC_stl_Model/K-RVC.stl</uri> 
                      <scale>1 1 1</scale>
                  </mesh>
              </geometry>
