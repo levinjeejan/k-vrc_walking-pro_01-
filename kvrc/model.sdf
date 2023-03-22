@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
-  <model name="kvcr">
+  <model name="kvrc">
     <static>true</static>
     <link name="link">
       <collision name="collision">
         <geometry>
           <mesh>
             <scale>0.0254 0.0254 0.0254</scale>
-            <uri>model://kvcr/meshes/kvcr.obj</uri>
+            <uri>model://kvrc/meshes/model.obj</uri>
           </mesh>
         </geometry>
       </collision>
@@ -15,7 +15,7 @@
         <geometry>
           <mesh>
             <scale>0.0254 0.0254 0.0254</scale>
-            <uri>model://kvcr/meshes/kvcr.obj</uri>
+            <uri>model://kvrc/meshes/model.obj</uri>
           </mesh>
         </geometry>
       </visual>
